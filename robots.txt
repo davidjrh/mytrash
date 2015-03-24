@@ -1,4 +1,4 @@
-# Hello World This is my new robots file (Javi)
+# Hello World - This is the Sprint Review
 # Begin robots.txt file
 #/-----------------------------------------------\
 #| In single portal/domain situations, uncomment the sitmap line and enter domain name
